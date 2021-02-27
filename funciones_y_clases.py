@@ -6,6 +6,8 @@ def cambiar_global():
     Esta función debe asignarle a la variable global `global1` el valor que se
     le pasa como único argumento posicional.
     '''
+
+    global1= cambiar_global(33)
     pass
 
 
